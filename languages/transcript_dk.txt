@@ -1,0 +1,50 @@
+and_then_exit_left – "Derefter, tag afkørslen til venstre."
+and_then_exit_right – "Derefter, tag afkørslen til højre."
+and_then_go_straight – "Derefter, fortsæt ligeud."
+and_then_keep_left – "Derefter, hold til venstre."
+and_then_keep_right – "Derefter, hold til højre."
+and_then_turn_left – "Derefter, drej til venstre."
+and_then_turn_right – "Derefter, drej til højre."
+
+compound_exit_left – "Tag afkørslen til venstre."
+compound_exit_right – "Tag afkørslen til højre."
+compound_go_straight – "Fortsæt ligeud."
+compound_keep_left – "Hold til venstre."
+compound_keep_right – "Hold til højre."
+compound_turn_left – "Drej til venstre."
+compound_turn_right – "Drej til højre."
+
+exit_left – "Tag afkørslen til venstre."
+exit_now – "Tag afkørslen nu."
+exit_right – "Tag afkørslen til højre."
+
+finish – "Du er nået frem til din destination."
+
+go_straight – "Fortsæt ligeud."
+
+keep_left – "Hold til venstre."
+keep_right – "Hold til højre."
+
+prepare_exit_left – "Gør klar til afkørsel til venstre."
+prepare_exit_right – "Gør klar til afkørsel til højre."
+prepare_turn_left – "Gør klar til at dreje til venstre."
+prepare_turn_right – "Gør klar til at dreje til højre."
+
+recomputing – "Du er kørt væk fra ruten. Beregner ny rute."
+
+roundabout_1 – "I rundkørslen, tag første afkørsel."
+roundabout_2 – "I rundkørslen, tag anden afkørsel."
+roundabout_3 – "I rundkørslen, tag tredje afkørsel."
+roundabout_4 – "I rundkørslen, tag fjerde afkørsel."
+roundabout_5 – "I rundkørslen, tag femte afkørsel."
+roundabout_6 – "I rundkørslen, tag sjette afkørsel."
+
+speed_signal – (Ingen tale, kun lydsignal)
+speed_warning – "Du kører for hurtigt."
+
+start – "Hav en god tur. Kør forsigtigt."
+
+turn_left – "Drej til venstre."
+turn_right – "Drej til højre."
+
+u_turn – "Foretag en U-vending."

@@ -1,0 +1,50 @@
+and_then_exit_left – "Poi prendi l'uscita a sinistra."
+and_then_exit_right – "Poi prendi l'uscita a destra."
+and_then_go_straight – "Poi prosegui dritto."
+and_then_keep_left – "Poi mantieniti a sinistra."
+and_then_keep_right – "Poi mantieniti a destra."
+and_then_turn_left – "Poi gira a sinistra."
+and_then_turn_right – "Poi gira a destra."
+
+compound_exit_left – "Prendi l'uscita a sinistra."
+compound_exit_right – "Prendi l'uscita a destra."
+compound_go_straight – "Prosegui dritto."
+compound_keep_left – "Mantieniti a sinistra."
+compound_keep_right – "Mantieniti a destra."
+compound_turn_left – "Gira a sinistra."
+compound_turn_right – "Gira a destra."
+
+exit_left – "Prendi l'uscita a sinistra."
+exit_now – "Esci ora."
+exit_right – "Prendi l'uscita a destra."
+
+finish – "Sei arrivato a destinazione."
+
+go_straight – "Prosegui dritto."
+
+keep_left – "Mantieniti a sinistra."
+keep_right – "Mantieniti a destra."
+
+prepare_exit_left – "Presto uscita a sinistra."
+prepare_exit_right – "Presto uscita a destra."
+prepare_turn_left – "Presto svolta a sinistra."
+prepare_turn_right – "Presto svolta a destra."
+
+recomputing – "Percorso modificato. Ricalcolo in corso."
+
+roundabout_1 – "Alla rotonda, prendi la prima uscita."
+roundabout_2 – "Alla rotonda, prendi la seconda uscita."
+roundabout_3 – "Alla rotonda, prendi la terza uscita."
+roundabout_4 – "Alla rotonda, prendi la quarta uscita."
+roundabout_5 – "Alla rotonda, prendi la quinta uscita."
+roundabout_6 – "Alla rotonda, prendi la sesta uscita."
+
+speed_signal – (Nessuna voce, solo segnale acustico)
+speed_warning – "Stai superando il limite di velocità."
+
+start – "Buon viaggio. Guida con prudenza."
+
+turn_left – "Gira a sinistra."
+turn_right – "Gira a destra."
+
+u_turn – "Fai inversione a U quando possibile."

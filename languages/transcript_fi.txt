@@ -1,0 +1,50 @@
+and_then_exit_left – "Sitten, poistu vasemmalle."
+and_then_exit_right – "Sitten, poistu oikealle."
+and_then_go_straight – "Sitten, jatka suoraan."
+and_then_keep_left – "Sitten, pysy vasemmalla."
+and_then_keep_right – "Sitten, pysy oikealla."
+and_then_turn_left – "Sitten, käänny vasemmalle."
+and_then_turn_right – "Sitten, käänny oikealle."
+
+compound_exit_left – "Poistu vasemmalle."
+compound_exit_right – "Poistu oikealle."
+compound_go_straight – "Jatka suoraan."
+compound_keep_left – "Pysy vasemmalla."
+compound_keep_right – "Pysy oikealla."
+compound_turn_left – "Käänny vasemmalle."
+compound_turn_right – "Käänny oikealle."
+
+exit_left – "Poistu vasemmalle."
+exit_now – "Poistu nyt."
+exit_right – "Poistu oikealle."
+
+finish – "Olet saapunut määränpäähän."
+
+go_straight – "Jatka suoraan."
+
+keep_left – "Pysy vasemmalla."
+keep_right – "Pysy oikealla."
+
+prepare_exit_left – "Poistuminen vasemmalle tulossa."
+prepare_exit_right – "Poistuminen oikealle tulossa."
+prepare_turn_left – "Käännös vasemmalle tulossa."
+prepare_turn_right – "Käännös oikealle tulossa."
+
+recomputing – "Poikkesit reitiltä. Lasketaan uusi reitti."
+
+roundabout_1 – "Liikenneympyrästä, ota ensimmäinen liittymä."
+roundabout_2 – "Liikenneympyrästä, ota toinen liittymä."
+roundabout_3 – "Liikenneympyrästä, ota kolmas liittymä."
+roundabout_4 – "Liikenneympyrästä, ota neljäs liittymä."
+roundabout_5 – "Liikenneympyrästä, ota viides liittymä."
+roundabout_6 – "Liikenneympyrästä, ota kuudes liittymä."
+
+speed_signal – (Ei puhetta, vain äänimerkki)
+speed_warning – "Ajat ylinopeutta."
+
+start – "Hyvää matkaa ja aja varovasti."
+
+turn_left – "Käänny vasemmalle."
+turn_right – "Käänny oikealle."
+
+u_turn – "Tee U-käännös."

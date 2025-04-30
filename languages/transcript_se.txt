@@ -1,0 +1,50 @@
+and_then_exit_left – "Sedan, ta avfarten till vänster."
+and_then_exit_right – "Sedan, ta avfarten till höger."
+and_then_go_straight – "Sedan, kör rakt fram."
+and_then_keep_left – "Sedan, håll till vänster."
+and_then_keep_right – "Sedan, håll till höger."
+and_then_turn_left – "Sedan, sväng vänster."
+and_then_turn_right – "Sedan, sväng höger."
+
+compound_exit_left – "Ta avfarten till vänster."
+compound_exit_right – "Ta avfarten till höger."
+compound_go_straight – "Kör rakt fram."
+compound_keep_left – "Håll till vänster."
+compound_keep_right – "Håll till höger."
+compound_turn_left – "Sväng vänster."
+compound_turn_right – "Sväng höger."
+
+exit_left – "Ta avfarten till vänster."
+exit_now – "Ta avfarten nu."
+exit_right – "Ta avfarten till höger."
+
+finish – "Du har nått ditt mål."
+
+go_straight – "Kör rakt fram."
+
+keep_left – "Håll till vänster."
+keep_right – "Håll till höger."
+
+prepare_exit_left – "Gör dig redo att ta avfarten till vänster."
+prepare_exit_right – "Gör dig redo att ta avfarten till höger."
+prepare_turn_left – "Gör dig redo att svänga vänster."
+prepare_turn_right – "Gör dig redo att svänga höger."
+
+recomputing – "Du har lämnat ruten. Beräknar ny rutt."
+
+roundabout_1 – "I rondellen, ta första avfarten."
+roundabout_2 – "I rondellen, ta andra avfarten."
+roundabout_3 – "I rondellen, ta tredje avfarten."
+roundabout_4 – "I rondellen, ta fjärde avfarten."
+roundabout_5 – "I rondellen, ta femte avfarten."
+roundabout_6 – "I rondellen, ta sjätte avfarten."
+
+speed_signal – Ingen röst, bara ett pip.
+speed_warning – "Du kör över hastighetsgränsen."
+
+start – "Ha en trevlig resa och kör försiktigt."
+
+turn_left – "Sväng vänster."
+turn_right – "Sväng höger."
+
+u_turn – "Sväng runt."

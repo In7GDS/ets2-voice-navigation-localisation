@@ -1,0 +1,50 @@
+and_then_exit_left – "Потом, изађите лево." "Potom, izađite levo."
+and_then_exit_right – "Потом, изађите десно." "Potom, izađite desno."
+and_then_go_straight – "Потом, продужите право." "Potom, produžite pravo."
+and_then_keep_left – "Потом, продужите лево." "Potom, produžite levo."
+and_then_keep_right – "Потом, продужите десно." "Potom, produžite desno."
+and_then_turn_left – "Потом, скрените лево." "Potom, skrenite levo."
+and_then_turn_right – "Потом, скрените десно." "Potom, skrenite desno."
+
+compound_exit_left – "Изађите лево." "Izađite levo."
+compound_exit_right – "Изађите десно." "Izađite desno."
+compound_go_straight – "Продужите право." "Produžite pravo."
+compound_keep_left – "Продужите лево." "Produžite levo."
+compound_keep_right – "Продужите десно." "Produžite desno."
+compound_turn_left – "Скрените лево." "Skrenite levo."
+compound_turn_right – "Скрените десно." "Skrenite desno."
+
+exit_left – "Изађите лево." "Izađite levo."
+exit_now – "Изађите." "Izađite."
+exit_right – "Изађите десно." "Izađite desno."
+
+finish – "Стигли сте на своје одредиште." "Stigli ste na svoje odredište."
+
+go_straight – "Продужите право." "Produžite pravo."
+
+keep_left – "Продужите лево." "Produžite levo."
+keep_right – "Продужите десно." "Produžite desno."
+
+prepare_exit_left – "Спремите се да изађете лево." "Spremite se da izađete levo."
+prepare_exit_right – "Спремите се да изађете десно." "Spremite se da izađete desno."
+prepare_turn_left – "Спремите се да скренете лево." "Spremite se da skrenete levo."
+prepare_turn_right – "Спремите се да скренете десно." "Spremite se da skrenete desno."
+
+recomputing – "Скренули сте са путање, израчунава се нова путања." "Skrenuli ste sa putanje, izračunava se nova putanja."
+
+roundabout_1 – "Уђите у кружни ток и изађите на првом излазу." "Uđite u kružni tok i izađite na prvom izlazu."
+roundabout_2 – "Уђите у кружни ток и изађите на другом излазу." "Uđite u kružni tok i izađite na drugom izlazu."
+roundabout_3 – "Уђите у кружни ток и изађите на трећем излазу." "Uđite u kružni tok i izađite na trećem izlazu."
+roundabout_4 – "Уђите у кружни ток и изађите на четвртом излазу." "Uđite u kružni tok i izađite na četvrtom izlazu."
+roundabout_5 – "Уђите у кружни ток и изађите на петом излазу." "Uđite u kružni tok i izađite na petom izlazu."
+roundabout_6 – "Уђите у кружни ток и изађите на шестом излазу." "Uđite u kružni tok i izađite na šestom izlazu."
+
+speed_signal – (Нема гласа, само звуковно упозорење)
+speed_warning – "Прекорачили сте ограничење брзине." "Prekoračili ste ograničenje brzine."
+
+start – "Срећан пут и возите пажљиво." "Srećan put i vozite pažljivo."
+
+turn_left – "Скрените лево." "Skrenite levo."
+turn_right – "Скрените десно." "Skrenite desno."
+
+u_turn – "Направите полукружно скретање." "Napravite polukružno skretanje."

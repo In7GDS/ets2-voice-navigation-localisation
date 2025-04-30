@@ -1,0 +1,50 @@
+and_then_exit_left – "Daarna, links eruit."
+and_then_exit_right – "Daarna, rechts eruit."
+and_then_go_straight – "Ga daarna rechtdoor."
+and_then_keep_left – "Daarna, houd links aan."
+and_then_keep_right – "Daarna, houd rechts aan."
+and_then_turn_left – "Daarna, linksaf."
+and_then_turn_right – "Daarna, rechtsaf."
+
+compound_exit_left – "Links eruit."
+compound_exit_right – "Rechts eruit."
+compound_go_straight – "Ga rechtdoor."
+compound_keep_left – "Houd links aan."
+compound_keep_right – "Houd rechts aan."
+compound_turn_left – "Naar links."
+compound_turn_right – "Naar rechts."
+
+exit_left – "Links eruit."
+exit_now – "Neem nu de afslag."
+exit_right – "Rechts eruit."
+
+finish – "Je bent op je bestemming aangekomen."
+
+go_straight – "Ga rechtdoor."
+
+keep_left – "Houd links aan."
+keep_right – "Houd rechts aan."
+
+prepare_exit_left – "Maak je klaar om linksaf te gaan."
+prepare_exit_right – "Maak je klaar om rechtsaf te gaan."
+prepare_turn_left – "Maak je klaar om naar links te gaan."
+prepare_turn_right – "Maak je klaar om naar rechts te gaan."
+
+recomputing – "Je bent van de route af. De route wordt opnieuw berekend."
+
+roundabout_1 – "Bij de rotonde, neem de eerste uitgang."
+roundabout_2 – "Bij de rotonde, neem de tweede uitgang."
+roundabout_3 – "Bij de rotonde, neem de derde uitgang."
+roundabout_4 – "Bij de rotonde, neem de vierde uitgang."
+roundabout_5 – "Bij de rotonde, neem de vijfde uitgang."
+roundabout_6 – "Bij de rotonde, neem de zesde uitgang."
+
+speed_signal – (Geen spraak, alleen geluidsignaal)
+speed_warning – "Je rijdt te snel."
+
+start – "Goede reis. Rij voorzichtig."
+
+turn_left – "Naar links."
+turn_right – "Naar rechts."
+
+u_turn – "Maak een U-bocht."

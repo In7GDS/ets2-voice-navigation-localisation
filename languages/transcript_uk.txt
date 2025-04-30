@@ -1,0 +1,50 @@
+and_then_exit_left – "Then, exit left."
+and_then_exit_right – "Then, exit right."
+and_then_go_straight – "Then, go straight."
+and_then_keep_left – "Then, keep left."
+and_then_keep_right – "Then, keep right."
+and_then_turn_left – "Then, turn left."
+and_then_turn_right – "Then, turn right."
+
+compound_exit_left – "Exit left."
+compound_exit_right – "Exit right."
+compound_go_straight – "Continue straight."
+compound_keep_left – "Keep left."
+compound_keep_right – "Keep right."
+compound_turn_left – "Turn left."
+compound_turn_right – "Turn right."
+
+exit_left – "Exit left."
+exit_now – "Exit now."
+exit_right – "Exit right."
+
+finish – "You have arrived at your destination."
+
+go_straight – "Continue straight."
+
+keep_left – "Keep left."
+keep_right – "Keep right."
+
+prepare_exit_left – "Get ready to exit left."
+prepare_exit_right – "Get ready to exit right."
+prepare_turn_left – "Get ready to turn left."
+prepare_turn_right – "Get ready to turn right."
+
+recomputing – "You’ve left the route. Recalculating the new route."
+
+roundabout_1 – "At the roundabout, take the first exit."
+roundabout_2 – "At the roundabout, take the second exit."
+roundabout_3 – "At the roundabout, take the third exit."
+roundabout_4 – "At the roundabout, take the fourth exit."
+roundabout_5 – "At the roundabout, take the fifth exit."
+roundabout_6 – "At the roundabout, take the sixth exit."
+
+speed_signal – (No voice, just beeping sound)
+speed_warning – "You are driving over the speed limit."
+
+start – "Have a pleasant drive and drive carefully."
+
+turn_left – "Turn left."
+turn_right – "Turn right."
+
+u_turn – "Make a U-turn."

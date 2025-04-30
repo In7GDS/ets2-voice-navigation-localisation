@@ -1,0 +1,50 @@
+and_then_exit_left – "Después, toma la salida a la izquierda."
+and_then_exit_right – "Después, toma la salida a la derecha."
+and_then_go_straight – "Después, sigue recto."
+and_then_keep_left – "Después, mantente a la izquierda."
+and_then_keep_right – "Después, mantente a la derecha."
+and_then_turn_left – "Después, gira a la izquierda."
+and_then_turn_right – "Después, gira a la derecha."
+
+compound_exit_left – "Toma la salida a la izquierda."
+compound_exit_right – "Toma la salida a la derecha."
+compound_go_straight – "Sigue recto."
+compound_keep_left – "Mantente a la izquierda."
+compound_keep_right – "Mantente a la derecha."
+compound_turn_left – "Gira a la izquierda."
+compound_turn_right – "Gira a la derecha."
+
+exit_left – "Toma la salida a la izquierda."
+exit_now – "Toma la salida ahora."
+exit_right – "Toma la salida a la derecha."
+
+finish – "Has llegado a tu destino."
+
+go_straight – "Sigue recto."
+
+keep_left – "Mantente a la izquierda."
+keep_right – "Mantente a la derecha."
+
+prepare_exit_left – "Prepárate para salir a la izquierda."
+prepare_exit_right – "Prepárate para salir a la derecha."
+prepare_turn_left – "Prepárate para girar a la izquierda."
+prepare_turn_right – "Prepárate para girar a la derecha."
+
+recomputing – "Has salido de la ruta. Calculando una nueva ruta."
+
+roundabout_1 – "En la rotonda, toma la primera salida."
+roundabout_2 – "En la rotonda, toma la segunda salida."
+roundabout_3 – "En la rotonda, toma la tercera salida."
+roundabout_4 – "En la rotonda, toma la cuarta salida."
+roundabout_5 – "En la rotonda, toma la quinta salida."
+roundabout_6 – "En la rotonda, toma la sexta salida."
+
+speed_signal – (Sin voz, solo señal acústica)
+speed_warning – "Vas demasiado rápido."
+
+start – "Buen viaje. Conduce con cuidado."
+
+turn_left – "Gira a la izquierda."
+turn_right – "Gira a la derecha."
+
+u_turn – "Da la vuelta."

@@ -1,0 +1,50 @@
+and_then_exit_left – "Því næst, taktu afrein til vinstri."
+and_then_exit_right – "Því næst, taktu afrein til hægri."
+and_then_go_straight – "Því næst, farðu beint áfram."
+and_then_keep_left – "Því næst, haltu til vinstri."
+and_then_keep_right – "Því næst, haltu til hægri."
+and_then_turn_left – "Því næst, beygðu til vinstri."
+and_then_turn_right – "Því næst, beygðu til hægri."
+
+compound_exit_left – "Taktu afrein til vinstri."
+compound_exit_right – "Taktu afrein til hægri."
+compound_go_straight – "Farðu beint áfram."
+compound_keep_left – "Haltu til vinstri."
+compound_keep_right – "Haltu til hægri."
+compound_turn_left – "Beygðu til vinstri."
+compound_turn_right – "Beygðu til hægri."
+
+exit_left – "Taktu afrein til vinstri."
+exit_now – "Taktu afrein núna."
+exit_right – "Taktu afrein til hægri."
+
+finish – "Þú ert kominn á áfangastað."
+
+go_straight – "Farðu beint áfram."
+
+keep_left – "Haltu til vinstri."
+keep_right – "Haltu til hægri."
+
+prepare_exit_left – "Brátt afrein til vinstri."
+prepare_exit_right – "Brátt afrein til hægri."
+prepare_turn_left – "Brátt beygt til vinstri."
+prepare_turn_right – "Brátt beygt til hægri."
+
+recomputing – "Þú hefur farið út af leiðinni. Ný leið er reiknuð."
+
+roundabout_1 – "Í hringtorginu, taktu fyrstu afrein."
+roundabout_2 – "Í hringtorginu, taktu aðra afrein."
+roundabout_3 – "Í hringtorginu, taktu þriðju afrein."
+roundabout_4 – "Í hringtorginu, taktu fjórðu afrein."
+roundabout_5 – "Í hringtorginu, taktu fimmtu afrein."
+roundabout_6 – "Í hringtorginu, taktu sjöttu afrein."
+
+speed_signal – (Engin tal, aðeins hljóðmerki)
+speed_warning – "Þú keyrir of hratt."
+
+start – "Góða ferð. Keyrðu varlega."
+
+turn_left – "Beygðu til vinstri."
+turn_right – "Beygðu til hægri."
+
+u_turn – "Snúðu við."

@@ -1,0 +1,50 @@
+and_then_exit_left – "หลังจากนั้น, ออกทางด้านซ้าย."
+and_then_exit_right – "หลังจากนั้น, ออกทางด้านขวา."
+and_then_go_straight – "หลังจากนั้น, ตรงไป."
+and_then_keep_left – "หลังจากนั้น, ชิดซ้าย."
+and_then_keep_right – "หลังจากนั้น, ชิดขวา."
+and_then_turn_left – "หลังจากนั้น, เลี้ยวซ้าย."
+and_then_turn_right – "หลังจากนั้น, เลี้ยวขวา."
+
+compound_exit_left – "ออกทางด้านซ้าย."
+compound_exit_right – "ออกทางด้านขวา."
+compound_go_straight – "ตรงไป."
+compound_keep_left – "ชิดซ้าย."
+compound_keep_right – "ชิดขวา."
+compound_turn_left – "เลี้ยวซ้าย."
+compound_turn_right – "เลี้ยวขวา."
+
+exit_left – "ออกทางด้านซ้าย."
+exit_now – "ออกตอนนี้."
+exit_right – "ออกทางด้านขวา."
+
+finish – "คุณถึงจุดหมายแล้ว."
+
+go_straight – "ตรงไป."
+
+keep_left – "ชิดซ้าย."
+keep_right – "ชิดขวา."
+
+prepare_exit_left – "เตรียมตัวออกซ้าย."
+prepare_exit_right – "เตรียมตัวออกขวา."
+prepare_turn_left – "เตรียมตัวเลี้ยวซ้าย."
+prepare_turn_right – "เตรียมตัวเลี้ยวขวา."
+
+recomputing – "คุณได้ออกจากเส้นทาง, กำลังหาทางใหม่."
+
+roundabout_1 – "ที่วงเวียน, ออกทางออกแรก."
+roundabout_2 – "ที่วงเวียน, ออกทางออกสอง."
+roundabout_3 – "ที่วงเวียน, ออกทางออกสาม."
+roundabout_4 – "ที่วงเวียน, ออกทางออกสี่."
+roundabout_5 – "ที่วงเวียน, ออกทางออกห้า."
+roundabout_6 – "ที่วงเวียน, ออกทางออกหก."
+
+speed_signal – (No voice, just beeping sound)
+speed_warning – "คุณใช้ความเร็วมากเกินไป."
+
+start – "ขอให้เดินทางอย่างมีความสุขและขับขี่ปลอดภัย."
+
+turn_left – "เลี้ยวซ้าย."
+turn_right – "เลี้ยวขวา."
+
+u_turn – "กลับรถ."

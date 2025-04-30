@@ -1,0 +1,50 @@
+and_then_exit_left – "Sonra soldan çık."
+and_then_exit_right – "Sonra sağdan çık."
+and_then_go_straight – "Sonra düz devam et."
+and_then_keep_left – "Sonra solda kal."
+and_then_keep_right – "Sonra sağda kal."
+and_then_turn_left – "Sonra sola dön."
+and_then_turn_right – "Sonra sağa dön."
+
+compound_exit_left – "Soldan çık."
+compound_exit_right – "Sağdan çık."
+compound_go_straight – "Düz devam et."
+compound_keep_left – "Solda kal."
+compound_keep_right – "Sağda kal."
+compound_turn_left – "Sola dön."
+compound_turn_right – "Sağa dön."
+
+exit_left – "Soldan çık."
+exit_now – "Şimdi çık."
+exit_right – "Sağdan çık."
+
+finish – "Varış noktasına ulaştın."
+
+go_straight – "Düz devam et."
+
+keep_left – "Solda kal."
+keep_right – "Sağda kal."
+
+prepare_exit_left – "Yakında soldan çık."
+prepare_exit_right – "Yakında sağdan çık."
+prepare_turn_left – "Yakında sola dön."
+prepare_turn_right – "Yakında sağa dön."
+
+recomputing – "Rota değişti. Yeniden hesaplanıyor."
+
+roundabout_1 – "Döner kavşakta birinci çıkıştan çık."
+roundabout_2 – "Döner kavşakta ikinci çıkıştan çık."
+roundabout_3 – "Döner kavşakta üçüncü çıkıştan çık."
+roundabout_4 – "Döner kavşakta dördüncü çıkıştan çık."
+roundabout_5 – "Döner kavşakta beşinci çıkıştan çık."
+roundabout_6 – "Döner kavşakta altıncı çıkıştan çık."
+
+speed_signal – (Sesli uyarı, konuşma yok)
+speed_warning – "Hız sınırını aşıyorsun."
+
+start – "İyi yolculuklar. Dikkatli sür."
+
+turn_left – "Sola dön."
+turn_right – "Sağa dön."
+
+u_turn – "Mümkün olan yerde U dönüşü yap."
