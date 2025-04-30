@@ -1,6 +1,6 @@
 and_then_exit_left – "Then, exit left."
 and_then_exit_right – "Then, exit right."
-and_then_go_straight – "Then, go straight."
+and_then_go_straight – "Then, continue straight."
 and_then_keep_left – "Then, keep left."
 and_then_keep_right – "Then, keep right."
 and_then_turn_left – "Then, turn left."
@@ -47,4 +47,4 @@ start – "Have a pleasant drive and drive carefully."
 turn_left – "Turn left."
 turn_right – "Turn right."
 
-u_turn – "Make a U-turn."
+u_turn – "Make a U-turn when possible."
