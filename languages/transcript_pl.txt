@@ -1,0 +1,50 @@
+and_then_exit_left – "Następnie zjedź w lewo."
+and_then_exit_right – "Następnie zjedź w prawo."
+and_then_go_straight – "Następnie jedź prosto."
+and_then_keep_left – "Następnie trzymaj się lewej strony."
+and_then_keep_right – "Następnie trzymaj się prawej strony."
+and_then_turn_left – "Następnie skręć w lewo."
+and_then_turn_right – "Następnie skręć w prawo."
+
+compound_exit_left – "Zjedź w lewo."
+compound_exit_right – "Zjedź w prawo."
+compound_go_straight – "Jedź prosto."
+compound_keep_left – "Trzymaj się lewej strony."
+compound_keep_right – "Trzymaj się prawej strony."
+compound_turn_left – "Skręć w lewo."
+compound_turn_right – "Skręć w prawo."
+
+exit_left – "Zjedź w lewo."
+exit_now – "Zjedź teraz."
+exit_right – "Zjedź w prawo."
+
+finish – "Dojechałeś do celu."
+
+go_straight – "Jedź prosto."
+
+keep_left – "Trzymaj się lewej strony."
+keep_right – "Trzymaj się prawej strony."
+
+prepare_exit_left – "Wkrótce zjazd w lewo."
+prepare_exit_right – "Wkrótce zjazd w prawo."
+prepare_turn_left – "Wkrótce skręt w lewo."
+prepare_turn_right – "Wkrótce skręt w prawo."
+
+recomputing – "Trasa została zmieniona. Obliczanie nowej trasy."
+
+roundabout_1 – "Na rondzie zjedź na pierwszym zjeździe."
+roundabout_2 – "Na rondzie zjedź na drugim zjeździe."
+roundabout_3 – "Na rondzie zjedź na trzecim zjeździe."
+roundabout_4 – "Na rondzie zjedź na czwartym zjeździe."
+roundabout_5 – "Na rondzie zjedź na piątym zjeździe."
+roundabout_6 – "Na rondzie zjedź na szóstym zjeździe."
+
+speed_signal – (Brak głosu, tylko sygnał dźwiękowy)
+speed_warning – "Przekraczasz dozwoloną prędkość."
+
+start – "Szerokiej drogi. Jedź ostrożnie."
+
+turn_left – "Skręć w lewo."
+turn_right – "Skręć w prawo."
+
+u_turn – "Zawróć, gdy to możliwe."

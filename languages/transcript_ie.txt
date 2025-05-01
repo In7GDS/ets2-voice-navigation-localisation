@@ -1,0 +1,50 @@
+and_then_exit_left – "Ansin, tóg an bealach amach ar chlé."
+and_then_exit_right – "Ansin, tóg an bealach amach ar dheis."
+and_then_go_straight – "Ansin, lean ort ar aghaidh."
+and_then_keep_left – "Ansin, coinnigh ar chlé."
+and_then_keep_right – "Ansin, coinnigh ar dheis."
+and_then_turn_left – "Ansin, cas ar chlé."
+and_then_turn_right – "Ansin, cas ar dheis."
+
+compound_exit_left – "Tóg an bealach amach ar chlé."
+compound_exit_right – "Tóg an bealach amach ar dheis."
+compound_go_straight – "Lean ort ar aghaidh."
+compound_keep_left – "Coinnigh ar chlé."
+compound_keep_right – "Coinnigh ar dheis."
+compound_turn_left – "Cas ar chlé."
+compound_turn_right – "Cas ar dheis."
+
+exit_left – "Tóg an bealach amach ar chlé."
+exit_now – "Tóg an bealach amach anois."
+exit_right – "Tóg an bealach amach ar dheis."
+
+finish – "Tá tú tagtha chuig do cheann scríbe."
+
+go_straight – "Lean ort ar aghaidh."
+
+keep_left – "Coinnigh ar chlé."
+keep_right – "Coinnigh ar dheis."
+
+prepare_exit_left – "Bealach amach ar chlé go luath."
+prepare_exit_right – "Bealach amach ar dheis go luath."
+prepare_turn_left – "Casadh ar chlé go luath."
+prepare_turn_right – "Casadh ar dheis go luath."
+
+recomputing – "Rian athraithe. Á athríomh."
+
+roundabout_1 – "Ag an gciorcal tráchta, tóg an chéad bhealach amach."
+roundabout_2 – "Ag an gciorcal tráchta, tóg an dara bealach amach."
+roundabout_3 – "Ag an gciorcal tráchta, tóg an tríú bealach amach."
+roundabout_4 – "Ag an gciorcal tráchta, tóg an ceathrú bealach amach."
+roundabout_5 – "Ag an gciorcal tráchta, tóg an cúigiú bealach amach."
+roundabout_6 – "Ag an gciorcal tráchta, tóg an séú bealach amach."
+
+speed_signal – (Gan guth, ach comhartha fuaime amháin)
+speed_warning – "Tá tú ag dul ró-thapa."
+
+start – "Bíodh turas sábháilte agat. Tiomáin go cúramach."
+
+turn_left – "Cas ar chlé."
+turn_right – "Cas ar dheis."
+
+u_turn – "Cas timpeall nuair is féidir."

@@ -1,0 +1,50 @@
+and_then_exit_left – "Apoi ieși la stânga."
+and_then_exit_right – "Apoi ieși la dreapta."
+and_then_go_straight – "Apoi continuă înainte."
+and_then_keep_left – "Apoi menține stânga."
+and_then_keep_right – "Apoi menține dreapta."
+and_then_turn_left – "Apoi virează la stânga."
+and_then_turn_right – "Apoi virează la dreapta."
+
+compound_exit_left – "Ieși la stânga."
+compound_exit_right – "Ieși la dreapta."
+compound_go_straight – "Continuă înainte."
+compound_keep_left – "Menține stânga."
+compound_keep_right – "Menține dreapta."
+compound_turn_left – "Virează la stânga."
+compound_turn_right – "Virează la dreapta."
+
+exit_left – "Ieși la stânga."
+exit_now – "Ieși acum."
+exit_right – "Ieși la dreapta."
+
+finish – "Ai ajuns la destinație."
+
+go_straight – "Continuă înainte."
+
+keep_left – "Menține stânga."
+keep_right – "Menține dreapta."
+
+prepare_exit_left – "În curând, ieșire la stânga."
+prepare_exit_right – "În curând, ieșire la dreapta."
+prepare_turn_left – "În curând, viraj la stânga."
+prepare_turn_right – "În curând, viraj la dreapta."
+
+recomputing – "Ai părăsit traseul. Recalculare rută."
+
+roundabout_1 – "La sensul giratoriu, ia prima ieșire."
+roundabout_2 – "La sensul giratoriu, ia a doua ieșire."
+roundabout_3 – "La sensul giratoriu, ia a treia ieșire."
+roundabout_4 – "La sensul giratoriu, ia a patra ieșire."
+roundabout_5 – "La sensul giratoriu, ia a cincea ieșire."
+roundabout_6 – "La sensul giratoriu, ia a șasea ieșire."
+
+speed_signal – (Fără voce, doar semnal sonor)
+speed_warning – "Depășești limita de viteză."
+
+start – "Drum bun. Condu cu atenție."
+
+turn_left – "Virează la stânga."
+turn_right – "Virează la dreapta."
+
+u_turn – "Întoarce când este posibil."

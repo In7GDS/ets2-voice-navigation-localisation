@@ -42,9 +42,9 @@ roundabout_6 – "I rundkørslen, tag sjette afkørsel."
 speed_signal – (Ingen tale, kun lydsignal)
 speed_warning – "Du kører for hurtigt."
 
-start – "Hav en god tur. Kør forsigtigt."
+start – "Ha en god tur, kør forsigtigt."
 
 turn_left – "Drej til venstre."
 turn_right – "Drej til højre."
 
-u_turn – "Foretag en U-vending."
+u_turn – "Foretag en U-vending når det er muligt."

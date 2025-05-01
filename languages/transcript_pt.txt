@@ -1,0 +1,50 @@
+and_then_exit_left – "Depois, sai à esquerda."
+and_then_exit_right – "Depois, sai à direita."
+and_then_go_straight – "Depois, segue em frente."
+and_then_keep_left – "Depois, mantém-te à esquerda."
+and_then_keep_right – "Depois, mantém-te à direita."
+and_then_turn_left – "Depois, vira à esquerda."
+and_then_turn_right – "Depois, vira à direita."
+
+compound_exit_left – "Sai à esquerda."
+compound_exit_right – "Sai à direita."
+compound_go_straight – "Segue em frente."
+compound_keep_left – "Mantém-te à esquerda."
+compound_keep_right – "Mantém-te à direita."
+compound_turn_left – "Vira à esquerda."
+compound_turn_right – "Vira à direita."
+
+exit_left – "Sai à esquerda."
+exit_now – "Sai agora."
+exit_right – "Sai à direita."
+
+finish – "Chegaste ao destino."
+
+go_straight – "Segue em frente."
+
+keep_left – "Mantém-te à esquerda."
+keep_right – "Mantém-te à direita."
+
+prepare_exit_left – "Em breve, saída à esquerda."
+prepare_exit_right – "Em breve, saída à direita."
+prepare_turn_left – "Em breve, vira à esquerda."
+prepare_turn_right – "Em breve, vira à direita."
+
+recomputing – "Percurso alterado. A recalcular."
+
+roundabout_1 – "Na rotunda, sai na primeira saída."
+roundabout_2 – "Na rotunda, sai na segunda saída."
+roundabout_3 – "Na rotunda, sai na terceira saída."
+roundabout_4 – "Na rotunda, sai na quarta saída."
+roundabout_5 – "Na rotunda, sai na quinta saída."
+roundabout_6 – "Na rotunda, sai na sexta saída."
+
+speed_signal – (Sem voz, apenas sinal sonoro)
+speed_warning – "Estás a exceder o limite de velocidade."
+
+start – "Boa viagem. Conduz com cuidado."
+
+turn_left – "Vira à esquerda."
+turn_right – "Vira à direita."
+
+u_turn – "Faz inversão de marcha quando possível."
