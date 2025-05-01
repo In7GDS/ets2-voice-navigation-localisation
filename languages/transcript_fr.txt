@@ -8,7 +8,7 @@ and_then_turn_right – "Puis, tournez à droite."
 
 compound_exit_left – "Sortez à gauche."
 compound_exit_right – "Sortez à droite."
-compound_go_straight – "Continuez out droit."
+compound_go_straight – "Continuez tout droit."
 compound_keep_left – "Restez à gauche."
 compound_keep_right – "Restez à droite."
 compound_turn_left – "Tournez à gauche."
