@@ -23,7 +23,7 @@ finish – "Du hast dein Ziel erreicht."
 go_straight – "Geradeaus wieterfahren"
 
 keep_left – "Links halten."
-keep_right – Rechts halten."
+keep_right – "Rechts halten."
 
 prepare_exit_left – "Demnächst links abfahren."
 prepare_exit_right – "Demnächst rechts abfahren."
@@ -32,12 +32,12 @@ prepare_turn_right – "Demnächst rechts abbiegen."
 
 recomputing – "Route verlassen, neue Berechnung..."
 
-roundabout_1 – "Im Kreisverkehr die erste Ausfahrt nehmen."
-roundabout_2 – "Im Kreisverkehr die zweite Ausfahrt nehmen."
-roundabout_3 – "Im Kreisverkehr die dritte Ausfahrt nehmen."
-roundabout_4 – "Im Kreisverkehr die vierte Ausfahrt nehmen."
-roundabout_5 – "Im Kreisverkehr die fünfte Ausfahrt nehmen."
-roundabout_6 – "Im Kreisverkehr die sechste Ausfahrt nehmen."
+roundabout_1 – "Im Kreisverkehr, die erste Ausfahrt nehmen."
+roundabout_2 – "Im Kreisverkehr, die zweite Ausfahrt nehmen."
+roundabout_3 – "Im Kreisverkehr, die dritte Ausfahrt nehmen."
+roundabout_4 – "Im Kreisverkehr, die vierte Ausfahrt nehmen."
+roundabout_5 – "Im Kreisverkehr, die fünfte Ausfahrt nehmen."
+roundabout_6 – "Im Kreisverkehr, die sechste Ausfahrt nehmen."
 
 speed_signal – (Keine Sprachausgabe, nur ein Tonsignal)
 speed_warning – "Sie fahren über die Geschwindigkeitsbegrenzung."
