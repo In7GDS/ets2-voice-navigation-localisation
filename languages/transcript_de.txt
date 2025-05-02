@@ -14,9 +14,9 @@ compound_keep_right – "Halte dich rechts."
 compound_turn_left – "Biege links ab."
 compound_turn_right – "Biege rechts ab."
 
-exit_left – "Nimm die Ausfahrt links."
+exit_left – "Ausfahrt links."
 exit_now – "Jetzt die Ausfahrt nehmen."
-exit_right – "Nimm die Ausfahrt rechts."
+exit_right – "Ausfahrt rechts."
 
 finish – "Du hast dein Ziel erreicht."
 
@@ -30,7 +30,7 @@ prepare_exit_right – "Demnächst rechts abfahren."
 prepare_turn_left – "Demnächst links abbiegen."
 prepare_turn_right – "Demnächst rechts abbiegen."
 
-recomputing – "Route wird neu berechnet."
+recomputing – "Route verlassen, neue Berechnung..."
 
 roundabout_1 – "Im Kreisverkehr, nimm die erste Ausfahrt."
 roundabout_2 – "Im Kreisverkehr, nimm die zweite Ausfahrt."
@@ -40,11 +40,11 @@ roundabout_5 – "Im Kreisverkehr, nimm die fünfte Ausfahrt."
 roundabout_6 – "Im Kreisverkehr, nimm die sechste Ausfahrt."
 
 speed_signal – (Keine Sprachausgabe, nur ein Tonsignal)
-speed_warning – "Du fährst zu schnell."
+speed_warning – "Vorsicht, überhöhte Geschwindigkeit."
 
 start – "Gute Fahrt. Fahre vorsichtig."
 
 turn_left – "Biege links ab."
 turn_right – "Biege rechts ab."
 
-u_turn – "Bitte wenden."
+u_turn – "Wenn möglich, bitte wenden."
